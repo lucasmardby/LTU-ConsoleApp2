@@ -1,0 +1,6 @@
+---SELLER INFO---
+
+Name		Persnr		District	Articles
+Lucas		0008279259	Swe		600
+0 sellers have reached level 4: over 199 articles
+

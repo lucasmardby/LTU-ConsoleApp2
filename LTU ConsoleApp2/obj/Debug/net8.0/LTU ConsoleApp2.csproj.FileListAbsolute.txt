@@ -1,0 +1,15 @@
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\bin\Debug\net8.0\LTU ConsoleApp2.exe
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\bin\Debug\net8.0\LTU ConsoleApp2.deps.json
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\bin\Debug\net8.0\LTU ConsoleApp2.runtimeconfig.json
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\bin\Debug\net8.0\LTU ConsoleApp2.dll
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\bin\Debug\net8.0\LTU ConsoleApp2.pdb
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\LTU ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\LTU ConsoleApp2.AssemblyInfoInputs.cache
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\LTU ConsoleApp2.AssemblyInfo.cs
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\LTU ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\LTU ConsoleApp2.sourcelink.json
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\LTU ConsoleApp2.dll
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\refint\LTU ConsoleApp2.dll
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\LTU ConsoleApp2.pdb
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\LTU ConsoleApp2.genruntimeconfig.cache
+E:\Code\LTU-ConsoleApp2\LTU ConsoleApp2\obj\Debug\net8.0\ref\LTU ConsoleApp2.dll

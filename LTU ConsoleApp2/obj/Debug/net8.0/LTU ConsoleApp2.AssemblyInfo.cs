@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LTU ConsoleApp2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4564d474f0d4f63908d1948d46957f33dc6e9340")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce57f5e34f42a0824228e3a7d887c8bd64f49819")]
 [assembly: System.Reflection.AssemblyProductAttribute("LTU ConsoleApp2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LTU ConsoleApp2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
