@@ -1,5 +1,4 @@
-﻿using System.Data;
-using System.Globalization;
+﻿using System.IO;
 
 namespace LTU_ConsoleApp2
 {
@@ -13,12 +12,7 @@ namespace LTU_ConsoleApp2
             string[,] sellerInfoSorted = SortArray(sellerInfo, 3);
             string[] filingArray = DisplaySellerResults(sellerInfoSorted, memberAmount);
 
-            string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            using StreamWriter outputFile = new StreamWriter(Path.Combine(docPath, "AssignmentTwoFile.txt"));
-            foreach (string line in filingArray)
-            {
-                outputFile.WriteLine(line);
-            }
+            File.WriteAllLines("AssignmentTwoFile.txt", filingArray);
         }
 
         private static void MainMenu()
